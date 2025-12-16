@@ -30,4 +30,4 @@ Publish using GitHub Pages:
 ## Author
 Krishna Prajapati — Web Development Intern @ Prodigy InfoTech  
 GitHub: https://github.com/krishnaa991  
-LinkedIn: https://www.linkedin.com/in/krishna-prajapati
+LinkedIn: https://www.linkedin.com/in/krishna-prajapati-033144399
